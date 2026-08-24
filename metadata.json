@@ -1,0 +1,6 @@
+{
+  "name": "SpeedFlow - دراسة ومنصة قياس سرعة الإنترنت و AdSense",
+  "description": "منصة متكاملة لقياس سرعة الإنترنت مع دراسة جدوى استراتيجية لتوزيع إعلانات AdSense، تصدر محركات البحث (SEO)، وزيادة وقت البقاء (Dwell Time).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
